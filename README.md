@@ -1,39 +1,19 @@
-# akirareboucas
-My Git learning journey with notes, examples and hands-on exercises.
-# Git Learning
+# Hi, I'm Akira Rebouças! 👋
 
-## 📖 About
+## 🛡️ Cybersecurity Analyst | Blue Team & SOC Specialist
+I am a Cybersecurity professional specializing in Blue Team operations, Threat Detection, and Incident Response. Currently building defensive labs, analyzing telemetry, and studying security infrastructures to protect environments against modern cyber threats.
 
-This repository documents my Git learning journey through notes, practical exercises and real-world examples.
+### 💼 Current Context & Education
+* **B.S. in Cybersecurity & Cyber Defense** – Uninter (In Progress).
+* Transitioning technical skills into Enterprise Security Infrastructure, SOC workflows, and Incident Handling.
 
-## 🎯 Goals
+### 💻 Technical Skills & Lab Projects
+* **SIEM / XDR:** Wazuh (Open-source XDR/SIEM), Elastic Stack (ELK), Splunk.
+* **Network & Traffic Analysis:** Wireshark, Zeek, Suricata IDS/IPS.
+* **Log Analysis:** Windows Event Logs (Sysmon), Linux Auditd, Syslog routing.
+* **Automation & Scripting:** Python for security automation, Bash scripting.
 
-- Learn Git fundamentals
-- Master version control
-- Practice daily
-- Build professional workflows
+### 🎓 Certifications & Continuous Learning
+* Google Cybersecurity Professional Certificate (In Progress).
+* Cisco CyberOps Associate Learning Path (In Progress).
 
-## 📚 Topics
-
-- [ ] Git installation
-- [ ] Git configuration
-- [ ] Repository creation
-- [ ] git init
-- [ ] git status
-- [ ] git add
-- [ ] git commit
-- [ ] git log
-- [ ] git push
-- [ ] git pull
-- [ ] Branches
-- [ ] Merge
-- [ ] Pull Requests
-- [ ] GitHub workflow
-
-## 🚀 Progress
-
-This repository will be continuously updated as I advance in my studies.
-
----
-
-Made with ❤️ by Akira Rebouças
